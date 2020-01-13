@@ -1,4 +1,4 @@
-# Fabric区块链BYFN网络一键启动工具
+# Fabric区块链BYFN网络一键启动工具【Windows环境】
 
 **Byfn.win** 是Hyperledger Fabric著名的byfn.sh脚本的Windows版本的移植，用于帮助开发人员在Windows环境中快速搭建Hyperledger Fabric链码及应用开发环境。官方下载地址：[http://sc.hubwiz.com/codebag/byfn-win/](http://sc.hubwiz.com/codebag/byfn-win/)。
 
